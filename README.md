@@ -8,9 +8,5 @@ https://apps.admob.com/v2/home?subid=id-en-ha-z-g-a-de!o3&_gl=1*144weyz*_ga*MTY3
 https://developers.google.com/admob/flutter/quick-start#android
 
 #### Buka AndroidManifest.xml
-Tambahkan :
-<meta-data
-            android:name="com.google.android.gms.ads.APPLICATION_ID"
-            android:value="ca-app-pub-xxxxxxxxxxxxxxxx~yyyyyyyyyy"/>
-            
+Tambahkan <metadata> :
 ![Screenshot 2024-03-20 150254](https://github.com/MuhammadFerrySofianshah/Flutter_AdMob/assets/113429157/ba04ba60-fdb6-46e9-96fe-ee638fc677f3)
